@@ -136,7 +136,7 @@
 	"gold": 2,
 	"maintenance": 2,
         "percentStatBonus": {"production": 5},
-	"uniques": ["[+15]% Production when building [Millitary] units [in this city]"],
+	"uniques": ["[+15]% Production when constructing [Millitary] units [in this city]"],
 	"requiredTech": "Gunpowder"
     },
     {
